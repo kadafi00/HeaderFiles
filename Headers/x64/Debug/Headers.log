@@ -1,0 +1,5 @@
+﻿  Headers.cpp
+  Source.cpp
+C:\Users\kadaf\OneDrive\Documents\C++\Headers\Headers\Headers\Source.cpp(18,10): warning C4101: 'selection': unreferenced local variable
+  Generating Code...
+  Headers.vcxproj -> C:\Users\kadaf\OneDrive\Documents\C++\Headers\Headers\x64\Debug\Headers.exe
